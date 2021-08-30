@@ -1,10 +1,12 @@
 ### Merhaba 👋, Ben Always
 #### Kimi Zaman Öğrenmeye Aç Bir Öğrenci Kimi Zaman İyi Bir Öğretmenim
-![Kimi Zaman Öğrenmeye Aç Bir Öğrenci Kimi Zaman İyi Bir Öğretmenim](https://i.resmim.net/t3Au3.png)
+![Kimi Zaman Öğrenmeye Aç Bir Öğrenci Kimi Zaman İyi Bir Öğretmenim]
+
+(https://i.resmim.net/t3Au3.png)
 
 Türkiyeliyim Kod Yazmayı Çok Seviyorum Ayrıca Kitap Okumak Benim İçin Ayrı Bir Zevk Birde İnsanlarla Münazara Etmeyi De Severim Ve  İyi Bir Harry Potter Hayranıyım Diyebilirim Daha Doğrusu Harry Potter Serisinin Hayranıyım Harry Karaketerini Pek Sevmem Ama Severus Snape Karakterinin Hastasıyım Seriye Hayranlığımı Zaten Yazdığım Araçlara Verdiğim İsimlerden Anlayabilirsiniz
 
-İdolüm: Mustafa Kemal ATATÜRK
+İdolüm: Mustafa Kemal ATATÜRK\n
 En Sevdiğim Kitap: Arsen LÜPEN: Kibar Hırsız
 En Sevdiğim Şarkıcı: Barış MANÇO
 En Sevdiğim Yabancı Şarkıcı: AZİS
